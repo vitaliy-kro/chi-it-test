@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chi-it-test/static/css/main.f7a57d20.css",
+    "main.js": "/chi-it-test/static/js/main.8bd55878.js",
+    "index.html": "/chi-it-test/index.html",
+    "main.f7a57d20.css.map": "/chi-it-test/static/css/main.f7a57d20.css.map",
+    "main.8bd55878.js.map": "/chi-it-test/static/js/main.8bd55878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a57d20.css",
+    "static/js/main.8bd55878.js"
+  ]
+}
